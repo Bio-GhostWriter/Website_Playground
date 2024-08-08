@@ -1,0 +1,18 @@
+---
+title: "Imported DENV-2 case from Brazil, May 2024"
+author: "Idrissa DIENG"
+format:
+  revealjs:
+    logo: omc.png
+    footer: "Researcher at Virology Department - IPD"
+---
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
