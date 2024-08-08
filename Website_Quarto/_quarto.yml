@@ -1,17 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "We"
+  title: "Surveillance Dengue Variants in Senegal"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: Background
+      - href: result.qmd
+        text: Results
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flaty
+      dark: darkly
     css: styles.css
     toc: true
 

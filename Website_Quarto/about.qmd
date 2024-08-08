@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Background"
 ---
 
-About this site
+Dengue is a major public health threat worldwide.
